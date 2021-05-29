@@ -18,3 +18,6 @@ __________________
 📁 **Bu modülü discord.js ile birlikte kullanabilmek mümkün yani embedlerimizde bu özelliği kullanabiliriz**
 
 📁 **Embed ile birlikte kullanma** https://sourceb.in/qVPT318LAK
+__________________
+❔ **BİR BUTONA BASILINCA BOTUN ALGILAMASINI SAĞLAMAK**
+https://sourceb.in/h6jclRsALY
