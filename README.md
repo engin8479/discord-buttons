@@ -13,8 +13,8 @@
 https://sourceb.in/JfuMX7PMyp
 __________________
 
-**Size şimdi kıcasa discord-buttons hakkında bahsedeyim**
+📁 **Size şimdi kıcasa discord-buttons hakkında bahsedeyim**
 
-**Bu modülü discord.js ile birlikte kullanabilmek mümkün yani embedlerimizde bu özelliği kullanabiliriz**
+📁 **Bu modülü discord.js ile birlikte kullanabilmek mümkün yani embedlerimizde bu özelliği kullanabiliriz**
 
-**Embed ile birlikte kullanma** https://sourceb.in/qVPT318LAK
+📁 **Embed ile birlikte kullanma** https://sourceb.in/qVPT318LAK
