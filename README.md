@@ -10,26 +10,5 @@
 **İLk olarak const { MessageButton } = require('discord-buttons'); şeklinde discord-buttons modülünü tanımlamamız gerekli**
 
 **Mesela örnek bir kod**
-const { MessageButton } = require('discord-buttons');
-exports.run = async(client, message, args) => {
-  let button2 = new MessageButton()
-    .setStyle('url')
-    .setLabel('Bir buton')
-    .setURL('https://github.com')
-  
-  return message.channel.send('İlk deneme butonum', {
-    buttons: [
-     button2
-    ]
-  });
-}
-exports.conf = {
-    enabled: true,
-    guildOnly: false,
-    permLevel:0,
-    aliases: []
-    }
-    exports.help = {
-    name: "discord-buttons"
-    }
+https://sourceb.in/JfuMX7PMyp
 __________________
